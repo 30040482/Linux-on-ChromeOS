@@ -135,7 +135,7 @@ Move any .tsv files into ChromeOS's Linux files
     >>> df = pd.read_table('example.tsv')
     >>> print(df)
 
-Installing 'Invitation.Jar'
+Installing .Jar files:
 
 Create a directory to store your files
 
@@ -143,12 +143,12 @@ Create a directory to store your files
     ls
     cd directoryname
 
-Copy 'Invitation.jar' from your main downloads folder
-Paste 'Invitation.jar' into your Linux files's new directory
+Copy 'example.jar' from your main downloads folder
+Paste 'example.jar' into your Linux files's new directory
 
     cd
     ls
     cd directoryname
-    java -jar Invitation.jar
+    java -jar example.jar
 
 Enjoy AI on ChromeOS
