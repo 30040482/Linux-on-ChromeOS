@@ -153,4 +153,4 @@ Paste 'example.jar' into your Linux files's new directory
 
 Enjoy AI on ChromeOS
 
-Check 'Eduke-on-ChromeOS' for videogame install instructions
+Check 'Eduke-on-ChromeOS' to install a videogame for ChromeOS!
