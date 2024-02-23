@@ -63,7 +63,9 @@ Add the following line to the end of the file
     export JAVA_HOME=/usr/lib/jvm/default-java
 
 Save and exit
+
 Apply changes to the current section
+
 Test the JAVA_HOME environment variable
 
     source .bashrc
