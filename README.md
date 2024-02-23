@@ -6,8 +6,6 @@ CIS Department
 
 Linux on ChromeOS
 by Luis Angel Soberanis-Pacheco
-
-###################################################
     
 Updating Linux:
 
@@ -15,8 +13,6 @@ Updating Linux:
     sudo apt upgrade
 
 Enter Y to accept installation
-
-#####################################################
 
 Installing VSCode:
 
@@ -43,8 +39,6 @@ Add VS Code repository
 Enter Y to accept installation
 
     code
-
-#############################################################
 
 Installing Java JDK:
 
@@ -83,8 +77,6 @@ Installing Java JRE:
 
     java -version
 
-#############################################################
-
 Installing GitHub Desktop
 
     sudo apt-get install gdebi
@@ -95,8 +87,6 @@ Enter Y to accept installation
     sudo gdebi GitHubDesktop-linux-3.1.1-linux1.deb
 
 Enter Y to accept installation
-
-####################################################
 
 Installing Jupyter Lab
 
@@ -120,8 +110,6 @@ Open a new tab in the Linux terminal
 
     jupyter lab
 
-###########################################################
-
 Installing Jupyter Notebook
 
     pip3 install notebook
@@ -129,8 +117,6 @@ Installing Jupyter Notebook
 Open a new tab in the Linux terminal
     
     jupyter notebook
-
-############################################################
 
 Installing and Creating Pandas
 
@@ -146,8 +132,6 @@ Move any .tsv files into ChromeOS's Linux files
     
     >>> df = pd.read_table('example.tsv')
     >>> print(df)
-
-############################################################
 
 Installing 'Invitation.Jar'
 
