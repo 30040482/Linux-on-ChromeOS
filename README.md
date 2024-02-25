@@ -1,9 +1,5 @@
 # Linux-on-ChromeOS
-An instructional manual containing Linux sudo codes that allow for Chromebooks to download and use CIS-required programs required for coursework.
-
-The Peralta Community College District
-
-CIS Department
+An instructional manual containing Linux sudo codes that allow for Chromebooks to download and use CIS-required programs required for coursework across The Peralta Community College District.
     
 Updating Linux:
 
