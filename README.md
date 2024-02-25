@@ -2,9 +2,8 @@
 An instructional manual containing Linux sudo codes that allow for Chromebooks to download and use CIS-required programs required for coursework.
 
 The Peralta Community College District
-CIS Department
 
-by Luis Angel Soberanis-Pacheco
+CIS Department
     
 Updating Linux:
 
