@@ -114,7 +114,7 @@ Open a new tab in the Linux terminal.
     
     jupyter notebook
 
-Installing and Creating Pandas.
+Installing and Creating Panda DataFrames:
 
 Check Pip version.
 
