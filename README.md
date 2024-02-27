@@ -137,7 +137,7 @@ Create a directory to store your files.
     ls
     cd directoryname
 
-Copy 'example.jar' from your computer's main downloads folder.
+Copy 'example.jar' from its original location.
 
 Paste 'example.jar' into the new directory located within your computer's main Linux folder.
 
