@@ -141,7 +141,7 @@ Copy 'example.jar' from your computer's main downloads folder.
 
 Paste 'example.jar' into the new directory located within your computer's main Linux folder.
 
-Enter the new directory.
+Return to your Linux terminal and enter the new directory.
 
     cd
     ls
