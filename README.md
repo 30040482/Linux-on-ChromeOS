@@ -10,11 +10,11 @@ Enter Y to accept installation
 
 Installing VSCode:
 
-Add Microsoft Repositories
+Add Microsoft Repositories.
 
     sudo apt install software-properties-common
 
-Enter Y to accept installation
+Enter Y to accept installation.
     
     sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
     sudo apt update
@@ -23,14 +23,14 @@ Enter Y to accept installation
     curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
     sudo mv microsoft.gpg /etc/apt/trusted.gpg.d/microsoft.gpg
 
-Add VS Code repository
+Add VS Code repository.
 
     echo "deb [arch=amd64] https://packages.microsoft.com/repos/code stable main" | sudo tee /etc/apt/sources.list.d/vscode.list
     sudo apt update
     sudo apt upgrade
     sudo apt install code
 
-Enter Y to accept installation
+Enter Y to accept installation.
 
     code
 
@@ -40,27 +40,27 @@ Installing Java JDK:
     sudo apt upgrade
     sudo apt install default-jdk
 
-Enter Y to accept installation
+Enter Y to accept installation.
 
-Install nano
+Installing Nano:
 
     sudo apt update
     sudo apt upgrade
     sudo apt install nano
 
-Set JAVA_HOME environment variable
+Set JAVA_HOME environment variable.
 
     nano .bashrc
 
-Add the following line to the end of the file
+Add the following line to the end of the file.
 
     export JAVA_HOME=/usr/lib/jvm/default-java
 
-Save and exit
+Save and exit.
 
-Apply changes to the current section
+Apply changes to the current section.
 
-Test the JAVA_HOME environment variable
+Test the JAVA_HOME environment variable.
 
     source .bashrc
     echo $JAVA_HOME
@@ -73,50 +73,50 @@ Installing Java JRE:
 
     java -version
 
-Installing GitHub Desktop
+Installing GitHub Desktop:
 
     sudo apt-get install gdebi
 
-Enter Y to accept installation
+Enter Y to accept installation.
     
     sudo wget https://github.com/shiftkey/desktop/releases/download/release-3.1.1-linux1/GitHubDesktop-linux-3.1.1-linux1.deb
     sudo gdebi GitHubDesktop-linux-3.1.1-linux1.deb
 
-Enter Y to accept installation
+Enter Y to accept installation.
 
-Installing Jupyter Lab
+Installing Jupyter Lab:
 
-Check Python3 Installation
+Check Python3 Installation.
 
     sudo apt install python3
     python3 --version
 
-Install Pip
+Install Pip.
 
     sudo apt install python3-pip
 
-Enter Y to accept installation
+Enter Y to accept installation.
 
     pip install --upgrade pip
     pip install jupyter lab
     sudo apt update
     sudo apt upgrade
 
-Open a new tab in the Linux terminal
+Open a new tab in the Linux terminal.
 
     jupyter lab
 
-Installing Jupyter Notebook
+Installing Jupyter Notebook.
 
     pip3 install notebook
 
-Open a new tab in the Linux terminal
+Open a new tab in the Linux terminal.
     
     jupyter notebook
 
-Installing and Creating Pandas
+Installing and Creating Pandas.
 
-Check Pip version
+Check Pip version.
 
     pip -v
     sudo apt install python3-pip
@@ -124,27 +124,27 @@ Check Pip version
     python3
     >>> import pandas as pd
 
-Move any .tsv files into ChromeOS's Linux files
+Move any .tsv files into ChromeOS's Linux files.
     
     >>> df = pd.read_table('example.tsv')
     >>> print(df)
 
 Installing .Jar files:
 
-Create a directory to store your files
+Create a directory to store your files.
 
     mkdir 'directoryname'
     ls
     cd directoryname
 
-Copy 'example.jar' from your main downloads folder
-Paste 'example.jar' into your Linux files's new directory
+Copy 'example.jar' from your main downloads folder.
+Paste 'example.jar' into your Linux files's new directory.
 
     cd
     ls
     cd directoryname
     java -jar example.jar
 
-Enjoy AI on ChromeOS
+Enjoy AI on ChromeOS.
 
 Don't forget to check out 'Nostalgia-on-ChromeOS' for a free installation of Doom, Minecraft, and Duke Nukem 3D: Atomic Edition on ChromeOS!
