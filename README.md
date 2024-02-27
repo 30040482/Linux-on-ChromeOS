@@ -124,7 +124,7 @@ Check Pip version.
     python3
     >>> import pandas as pd
 
-Move any .tsv files into ChromeOS's Linux files.
+Move any .tsv files into your computer's main Linux folder.
     
     >>> df = pd.read_table('example.tsv')
     >>> print(df)
@@ -137,8 +137,11 @@ Create a directory to store your files.
     ls
     cd directoryname
 
-Copy 'example.jar' from your main downloads folder.
-Paste 'example.jar' into your Linux files's new directory.
+Copy 'example.jar' from your computer's main downloads folder.
+
+Paste 'example.jar' into the new directory located within your computer's main Linux folder.
+
+Enter the new directory.
 
     cd
     ls
