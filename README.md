@@ -147,4 +147,4 @@ Paste 'example.jar' into your Linux files's new directory
 
 Enjoy AI on ChromeOS
 
-Don't forget to check out 'Nostalgia-on-ChromeOS' for a free installation of Doom and Duke Nukem 3D: Atomic Edition on ChromeOS!
+Don't forget to check out 'Nostalgia-on-ChromeOS' for a free installation of Doom, Minecraft, and Duke Nukem 3D: Atomic Edition on ChromeOS!
