@@ -129,7 +129,7 @@ Move any .tsv files into your computer's main Linux folder.
     >>> df = pd.read_table('example.tsv')
     >>> print(df)
 
-Installing .Jar files:
+Installing JAR files:
 
 Create a directory to store your files.
 
@@ -146,6 +146,9 @@ Enter the new directory.
     cd
     ls
     cd directoryname
+
+Launch the JAR file.
+
     java -jar example.jar
 
 Enjoy AI on ChromeOS.
