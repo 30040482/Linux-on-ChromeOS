@@ -42,7 +42,7 @@ Installing Java JDK:
 
 Enter Y to accept installation.
 
-Installing Nano:
+Install Nano:
 
     sudo apt update
     sudo apt upgrade
