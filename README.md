@@ -106,7 +106,7 @@ Open a new tab in the Linux terminal.
 
     jupyter lab
 
-Installing Jupyter Notebook.
+Installing Jupyter Notebook:
 
     pip3 install notebook
 
