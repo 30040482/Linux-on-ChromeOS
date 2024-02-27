@@ -6,7 +6,7 @@ Updating Linux:
     sudo apt update
     sudo apt upgrade
 
-Enter Y to accept installation
+Enter Y to accept installation.
 
 Installing VSCode:
 
