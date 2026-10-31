@@ -1,5 +1,5 @@
 # Linux-on-ChromeOS
-Luis Angel Soberanis-Pacheco
+By Luis Angel Soberanis-Pacheco
 
 An instruction manual containing Linux sudo codes that allow for Chromebooks to download and run programs required to complete CIS coursework across the Peralta Community College District.
     
